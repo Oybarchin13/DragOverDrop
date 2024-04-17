@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "username": "oybarchin",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "username": "",
+      "password": "11",
+      "id": 2
+    },
+    {
+      "username": "Aralova",
+      "password": "1111",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "bookLink": "22222",
+      "pages": "fdsfsf",
+      "category": "Finished",
+      "published": "2024-04-17T11:23:47.160Z",
+      "id": 1
+    },
+    {
+      "bookLink": "22222",
+      "pages": "fdsfsf",
+      "category": "Reading",
+      "published": "2024-04-17T11:23:47.160Z",
+      "id": 1
+    },
+    {
+      "bookLink": "3333",
+      "pages": "fdsfsf",
+      "category": "Finished",
+      "published": "2024-04-17T11:23:47.160Z",
+      "id": 1
+    },
+    {
+      "bookLink": "czxcas",
+      "pages": "dasd",
+      "category": "Reading",
+      "published": "2024-04-17T11:36:40.259Z",
+      "id": 2
+    },
+    {
+      "bookLink": "qwerh",
+      "pages": "sdfg",
+      "category": "Reading",
+      "published": "2024-04-17T12:13:59.348Z",
+      "id": 3
+    },
+    {
+      "bookLink": "dsf",
+      "pages": "fsdf",
+      "category": "New",
+      "published": "2024-04-17T12:27:29.023Z",
+      "id": 4
+    },
+    {
+      "bookLink": "dsadsa",
+      "pages": "dsad",
+      "category": "New",
+      "published": "2024-04-17T12:49:08.895Z",
+      "id": 5
+    }
+  ]
+}
